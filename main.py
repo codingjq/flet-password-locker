@@ -8,6 +8,7 @@ def main(page: ft.Page):
     page.window_height = 600
     page.window_width = 400
     page.title = "MyPass Manager"
+    page.scroll = "auto"
 
     page.on_connect = initialize_db()
 
