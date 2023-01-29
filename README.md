@@ -6,4 +6,4 @@ This is a repository supporting the YouTube video linked below:
 
 Always feel free to ask any questions or submit pull requests to my tutorials. 
 
-![](https://github.com/codingjq/flet-password-locker/demo.gif)
+![](demo.gif)
